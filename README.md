@@ -7,13 +7,13 @@
 
 -[Introduction](#Introduction)
 
--[Dataset Overview](#DatasetOverview)
+-[Dataset Overview](#Dataset-Overview)
 
--[Project Objective](#ProjectObjective)
+-[Project Objective](#Project-Objective)
 
--[Data Cleaning](#DataCleaning)
+-[Data Cleaning](#Data-Cleaning)
 
--[Analysis and Insight](#AnalysisandInsight)
+-[Analysis and Insight](#Analysis-and-Insight)
 
 -[Recommendation](#Recommendation)
 
