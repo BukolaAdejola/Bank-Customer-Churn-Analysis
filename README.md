@@ -170,6 +170,10 @@ Churn rate across Demographics
 ✅ Does tenure (years with the bank) influence churn rates?
 - Insights: Yes, Mid-Tenure and Low-Tenure group have the same churn rate of 36.36% while the High-Tenure group have the lowest churn rate of 27.27% amongst them all.
 
+<img width="595" alt="LinkedIn1" src="https://github.com/user-attachments/assets/6099f21f-38db-4be6-a5d4-a2b9bb6b5302" />
+
+<img width="593" alt="LinkedIn2" src="https://github.com/user-attachments/assets/3e59a1ca-1801-4000-bd22-aa36a328ff95" />
+
 ## Recommendation
 
 - Demographic Recommendations:
