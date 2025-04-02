@@ -15,6 +15,8 @@
 
 -[Analysis and Insight](#Analysis-and-Insight)
 
+-[Dashboard](#Dashboard)
+
 -[Recommendation](#Recommendation)
 
 -[Conclusion](#Conclusion)
@@ -173,6 +175,11 @@ Churn rate across Demographics
 <img width="595" alt="LinkedIn1" src="https://github.com/user-attachments/assets/6099f21f-38db-4be6-a5d4-a2b9bb6b5302" />
 
 <img width="593" alt="LinkedIn2" src="https://github.com/user-attachments/assets/3e59a1ca-1801-4000-bd22-aa36a328ff95" />
+
+## Dashboard
+
+![Bank Churn Dashbiard](https://github.com/user-attachments/assets/3a25821c-960b-4151-8aa2-0c35ca320a71)
+
 
 ## Recommendation
 
